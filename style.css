@@ -1,0 +1,148 @@
+* { 
+    
+}
+#Inicio {
+    background-color: #303030;
+    width: 1600px;
+    height: 475px;
+    padding-top: 30px;
+    margin-top: -8px;
+    font-family: 'Inter',; 
+    margin-left: -8px;  
+} 
+
+#texto1 {
+color: #FFFFFF;
+padding-left: 72px;
+margin-top: 206px;
+font-size: 62px;
+
+
+}
+
+#texto2 {
+color: #FFFFFF;
+padding-left: 72px;
+font-size: 20px;
+
+}
+
+#secao2{
+    background-color: #F9F9F9;
+    width: 1600px;
+    height: 229px;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    font-family: 'Inter',;
+   
+    
+ }
+
+ .numeros{
+   margin-left: 130px;
+    margin-top: 54px;
+    font-size: 22px;
+    font-family: 'Inter', ;
+    font-weight: lighter; 
+    
+ }
+
+ .textos{
+ margin-top: -30px;
+ 
+ }
+
+ #secao3{
+    font-family: 'Inter',;
+    font-weight: lighter; 
+    display: grid;
+    grid-auto-flow: column;
+    column-count: auto;
+    margin-top: 50px;
+    margin-right: 20px;
+
+ }
+
+#titulosecao3{
+    font-size: 39px;
+    line-height: 35px;
+    padding-top: 230px;
+    margin-left: 100px;
+    font-family: 'Inter', sans-serif;
+    color: #000000ef;
+    
+}
+ #textosecao3{
+     font-size: 24px;
+     color: #000000dc;
+     margin-left: 100px;
+     font-family: 'Raleway', sans-serif;
+     margin-top: 70px;
+     line-height: 30px;
+
+     
+    
+ }
+
+ #imagem{
+   padding-left: 50px;
+   margin-top: 50px;
+   border-radius: 30px;
+  
+ }
+  
+#textoformulario{
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 48px;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    padding-top: 90px;
+    color: #FFFFFF;
+}
+
+input{
+    width: 508px;
+    height: 72px;
+    margin-left: 33.5%;
+    margin-top: 60px;
+    margin-bottom: 22px;
+    background-color: #FFFFFF;
+    color: #303030;
+    border: 0px;
+    border-radius: 10px;
+    font-size: 24px;
+    padding-left:20px;
+    
+}
+button{
+margin-left: 41%;
+margin-top: 60px;
+width: 286px;
+height: 74px;
+background-color: #C07212;
+color: #FFFFFF;
+font-size: 30px;
+font-family: 'Raleway', sans-serif;
+border: 0px;
+border-radius: 10px;
+cursor: pointer;
+}
+
+button:hover{
+  background-color: #bd8c50;
+  color: #f0eeee;
+  transform: translateY(-7px);
+  box-shadow: 0px 15px 20px #141311c7 ;
+}
+
+#Secao4{
+    background-color: #303030;
+    width: 1600px;
+    height: 638px;
+    margin-bottom: -8px;
+    margin-left: -8px; 
+    
+}
