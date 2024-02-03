@@ -3,7 +3,7 @@
 }
 #Inicio {
     background-color: #303030;
-    width: 1300px;
+    width: 1440px;
     height: 475px;
     padding-top: 30px;
     margin-top: -8px;
@@ -32,7 +32,7 @@ margin-top: -10px;
 
 #secao2{
     background-color: #F9F9F9;
-    width: 1300px;
+    width: 1440px;
     height: 229px;
     display: grid;
     grid-auto-flow: column;
@@ -144,7 +144,7 @@ button:hover{
 
 #Secao4{
     background-color: #303030;
-    width: 1300px;
+    width: 1440px;
     height: 638px;
     margin-bottom: -8px;
     margin-left: -8px; 
