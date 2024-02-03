@@ -3,7 +3,7 @@
 }
 #Inicio {
     background-color: #303030;
-    width: 1600px;
+    width: 1400px;
     height: 475px;
     padding-top: 30px;
     margin-top: -8px;
@@ -15,7 +15,8 @@
 color: #FFFFFF;
 padding-left: 72px;
 margin-top: 206px;
-font-size: 62px;
+font-size: 60px;
+font-family: 'Inter';
 
 
 }
@@ -24,32 +25,35 @@ font-size: 62px;
 color: #FFFFFF;
 padding-left: 72px;
 font-size: 20px;
+font-family: 'Inter', sans-serif;
+margin-top: -10px;
 
 }
 
 #secao2{
     background-color: #F9F9F9;
-    width: 1600px;
+    width: 1400px;
     height: 229px;
     display: grid;
     grid-auto-flow: column;
     columns: auto;
-    font-family: 'Inter',;
+   line-height: 38px;
+   font-family: 'Inter Tight', sans-serif;
    
     
  }
 
- .numeros{
-   margin-left: 130px;
+ .numeros {
+   padding-left: 72px;
     margin-top: 54px;
-    font-size: 22px;
-    font-family: 'Inter', ;
-    font-weight: lighter; 
-    
+    font-size: 20px;
+    font-family: 'Inter Tight', sans-serif;
  }
 
  .textos{
  margin-top: -30px;
+ font-size: 20px;
+ font-family: 'Inter Tight', sans-serif;
  
  }
 
@@ -140,7 +144,7 @@ button:hover{
 
 #Secao4{
     background-color: #303030;
-    width: 1600px;
+    width: 1400px;
     height: 638px;
     margin-bottom: -8px;
     margin-left: -8px; 
